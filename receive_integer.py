@@ -1,14 +1,20 @@
 def receive_integer():
-    print('Enter a positive integer:')
-    receivednumber = 'dummy'
-    while receivednumber == 'dummy':
+
+    while True:
+        print('Enter a positive integer:')
         try:
-            receivednumber = int(float(input()))
-            if not receivednumber > 0:
-                print('That number is not positive.')
-                continue
+            userinput = int(float(input()))
         except ValueError:
-            print('That is not an integer.')
+            print('Python can\'t make an integer out of that.')
+            print('Maybe you used a comma in your number? That\'s')
+            print('too fancy for me.')
             continue
-    print('Success:', receivednumber)
-    return receivednumber
+        if isinstance(userinput, int) and userinput > 0:
+            return userinput
+            break
+        else:
+            print("That number is not positive.")
+
+
+userinteger = receive_integer()
+print(userinteger)
