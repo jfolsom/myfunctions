@@ -1,0 +1,114 @@
+PURPOSE
+This Work Instruction describes the procedure for compression testing rock cores at the Lexington, KY S&ME laboratory, including location and equipment specific details.  ASTM C617 and ASTM D7012 Method C must also be followed unless written case specific direction to deviate is provided by the assigning professional engineer, and testing technician must be familiar with that standard.  Deviation from this S&ME work instruction in specific cases is permitted when explicitly directed by the supervising technician or her authorized representative.
+This practice contain alternative sections to be used on low strength cores that cannot withstand machining per ASTM D4543, Section 7.6, which states “There are some rock types with physical characteristics or low strengths which preclude preparing specimens to the flatness tolerance specified in 7.4, even with the best effort (Note 3). In these instances, first cut the core specimen to length, then apply gypsum end caps to the end surfaces of the specimen.”
+The strength of rock cores capped by this method is limited to the verification cube strength; however, the limitation to only cap rock cores which are so weak as to be unmachinable will generally be the greater limitation unless there are cores with an unusually extreme compressive strength versus shear strength ratio.
+Sulfur mortar capping of rock core specimens is not permitted.
+REFERENCES
+ASTM D4543:  Standard Practices for Preparing Rock Core as Cylindrical Test Specimens and Verifying Conformance to Dimensional and Shape Tolerances
+ASTM C617: Standard Practice for Capping Cylindrical Concrete Specimens
+ASTM D7012: Standard Test Methods for Compressive Strength and Elastic Moduli of Intact Rock Core Specimens Under Varying States of Stress and Temperatures
+WI-VP-40.1-01 Determination of Capping Material’s Compressive Strength
+EQUIPMENT
+High strength gypsum capping material with verification record for the lot within the past 3 months (frequently, the material is removed from service due to infrequent usage, and will have to be verified, including determining water-cement ratio, before capping)
+Measuring equipment, including .01 g verified scale and volumetric measuring devices.
+Mixing equipment, including stiff spatula capable of violent stirring and sealable bowl.
+Glass capping plates, between 2 ½ and 3 inches on a side, minimum ½ inch thick, with at least one very smooth side (plane to within .002 in).
+Cube molds.
+Timer
+Needle
+Horizontal surface.
+Bubble or two-direction level.
+.002 feeler gauge
+Straightedge.
+Mineral Oil
+Stopwatch
+Strain Gauge Apparatus
+6 in. Bubble Level
+PREPARATION – CORES FOR SENDING TO MACHINE
+Use assignment sheet to locate cores in core boxes.
+Testable cores must be more than twice as long as the diameter or more (2.1:1 or greater)
+Testable cores should have straight sides, as can be estimate visually and confirmed by rolling on a machined surface such as a large concrete compression machine platen.
+If no specimen meeting the side straightness requirement can be obtained, note and flag.
+For gypsum capped specimens, record the result of the check, as the side straightness will not be able to be checked again.
+Provide a visual description of cores, using dilute acid to assist in identifying rock type as appropriate.
+Separate the cores into those that are machinable and those that are too fragile to machine.
+Fragile cores must be handled with extreme care, and should be wrapped with plastic wrap and then tape to prevent fracture.
+For fragile cores obtain a separate adjacent piece for determination of moisture content and unit weight.
+For fragile cores, or machinable cores which might end up fracturing during machining, obtain a backup core, and record backup samples obtained on a separate list.  Backup cores will not be sent to machinist.
+Label cores and prepare an inventory of cores to send including the actual depth the specimens were pulled from to within .1 inches, as well as an inventory of cores to cap.  Note how many cores will need sending and how many will need capping on your daily schedule.
+All cores shall be placed in ziplock bags to reduce disturbance to moisture content.
+Durable cores shall be cut to a height to diameter ratio between 2.2 to and 2.49:1.
+Package cores securely and include a copy of the inventory in the package.
+The inventory shall include a reference to the project number.
+Retain a copy of the inventory as sent.
+PREPARATION – DELICATE CORES FOR CAPPING
+Using a high speed rotary tool or sharp knife, trim the ends of delicate specimens so that the extremes of length along the long axis on each end do not vary by more than 1/8th inch.  In other words, grind/trim the specimens so that the caps do not have to compensate for more than 1/8 inch of surface irregularity.
+Use a verified angle to confirm that the prepared specimens meet this requirement.
+Trim the extra adjacent material likewise.
+CAPPING DELICATE CORES
+Locate gypsum material that has been verified.  If a new lot of gypsum is obtained, it must be verified.
+The estimated strength of gypsum capped core must be less than the qualified strength of the gypsum.
+Use a bubble level to level the base plate of a cube mold; attach the mold securely in place to the working surface.
+Attach on one of the cube mold sides to the cube mold plate.
+Apply mineral oil to the base and sides of the mold (gypsum may adhere to the sides of the mold), and to one side of each glass plate.
+Mix gypsum at a ratio of .28 g water to 1 g gypsum and concurrently start a timer.
+Mix the gypsum very thoroughly and visually check for pockets of unmixed gypsum.
+Apply a small quantity of gypsum to the base plate.
+Poke with a paperclip several times to remove air bubble.
+Place the core against the sides of the cube mold to ensure the cap surface will be perpendicular to the sides of the mold.
+Press the cores smoothly and firmly into the gypsum.
+Ensure the specimen does not depart from contact with the sides of the cube mold.
+Apply a small portion of the gypsum to the top of each core
+Poke repeatedly with a paper clip to remove air bubbles.
+Place a level, either circular or two-axis, on the glass plate.
+Keep the plate level, lower the plate smoothly onto the top of the specimen and press firmly.
+Securing gypsum to specimen shall be completed within five minutes of mixing.
+Allow the specimens to sit for 1 hour before removing specimens from base plate or glass plates from top.
+Extreme care must be taken while removing specimen from capping surfaces to prevent damage to the specimen and to prevent caps from separating from the specimen.
+Allow caps to harden for 24 hours before testing.
+Verification of machined cores
+Verify that machined specimens the specimen meets dimensions in accordance with ASTM D4543 -08 procedures S1, FP2, and P2.
+OBTAIN SPECIMEN MEASUREMENTS AND PICTURE.
+Durable: Obtain measurement
+Measure the length of the specimen at the center point, making sure the calipers are aligned properly.
+Measure the diameter twice, at perpendicular diameters at midheight, making sure the calipers are aligned properly.
+Obtain the total mass of the specimen
+Non durable: obtain the same measurements as described for durable speciemens on the extra adjacent material.  Note that measurements were taken on an adjacent similar specimens.  Include a note to that effect when reporting test results.
+Use the entire adjacent specimen to as a moisture content specimen in accordance with ASTM D2216. 
+Take a picture of the test specimen, and transfer that picture to a pictures subfolder in the project folder.
+COMPRESSION TEST
+Use the magnetic base to attach the strain gauge to the outside of the break machine and position so that the strain piston is resting against the piston. 
+Use the bubble level to check the tilt and plumb of the gauge. 
+Twist the outside of the dial so that the large needle reads 0. Make sure to double check the tilt and plumb of the gage before you continue. 
+Set the Strain Rate
+Turn the metered advance regulator until it is closed. Twist slightly back to the left.
+Turn on the break machine and set to metered advance. Start the stopwatch and calibrate counting seconds. The default strain rate for weak cores is 0.015 in./min. The strain gauge should move through 1 tick per approximately 4 seconds.
+Once you have correctly set the strain rate, retract the piston.
+Tare the break machine.
+Place the sample in the break machine.
+Bring the piston close to the top of the sample at full advance.
+Using metered advance, apply a seat load to the specimen, taking care to tare as needed.
+Make sure there is sufficient travel left in the strain gauge to allow for the test to run without damaging the gauge; 0.2 in. should be sufficient.
+Simultaneously, start the stopwatch and a metered advance.
+Periodically check that the strain rate is consistent. The strain rate under load may be different than the strain rate without load.
+Test the core until it fails. To ensure the core has reached complete failure, the load should drop by more than half.
+Record the peak load and the total test time.
+AFTER COMPRESSION TEST
+Flag very weathered shales; it may be more appropriate to test them using soil unconfined compression testing procedures.
+Put the small spherically seated upper break head in place in the compression testing machine.
+Use the magnetic base to attach the strain gauge to the outside of the break machine and position so that the strain piston is resting against the bottom of the break head. Use the bubble level to check the tilt and plumb of the gauge. Adjust the height of the gauge so that the inner dial reads 0, and twist the outside of the dial so that the large needle also reads 0. Make sure to double check the tilt and plumb of the gage before you continue. 
+Adjust the strain rate of the machine to .015 inches per minute.
+Bring the platen close to but not touching the specimen.
+Zero the load.
+Slowey and carefully seat the specimen.
+Apply the .015 inches per minute strain rate to the specimen.
+The rate may have to be adjusted: the rate under load may be different from the rate with now load.
+Once the rate is set, allow the specimen to continue to failure maintaining the rate.
+Record the peak load.
+Doublecheck that the load is recorded correctly.
+Take a picture of the failed specimen.
+Take a moisture content with pieces of the failed specimen.
+Delicate specimens: take measurements of cap thickness and check for conformance with the cap thicknesses allowed in ASTM C617.
+Take a post-test photograph including the largest pieces of the sample, a ruler, and a tag in the photo.
+Use the whole specimen as a moisture content.
+Delicate specimens: take measurements of cap thickness and check for conformance with the cap thicknesses allowed in ASTM C617.
