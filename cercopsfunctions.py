@@ -26,7 +26,7 @@ def receive_validinteger():
             print("That number is not positive.")
 
 
-def stringweightloss(longstring, listofedits)
+def stringweightloss(longstring, listofedits):
     # Search long string for chuncks to edit out from listofedits.  List of
     # edits will frequently come from a regex.findall(longstring).  Return the
     # string with the listofedits removed.
@@ -38,7 +38,7 @@ def stringweightloss(longstring, listofedits)
         longstring = longstring[:startcutat] + longstring[endcutat:]
     return longstring
 
-def stringtosections(longstring, listofsectionbreaks)
+def stringtosections(longstring, listofsectionbreaks):
     # Search long string for a list of section breaks.  List of
     # breaks will frequently come from a regex.findall(longstring).  Return the
     # a list of strings containing each sections contents.  DOES NOT keep
