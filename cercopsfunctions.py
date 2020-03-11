@@ -1,6 +1,10 @@
-
+#!python3
 
 # print a list of lists
+
+import os
+import pickle
+
 def printlistoflines(listoflists):
     for y in range(len(picture)):
         for x in range(len(row1)):
@@ -26,7 +30,7 @@ def receive_validinteger():
             print("That number is not positive.")
 
 
-def stringweightloss(longstring, listofedits)
+def stringweightloss(longstring, listofedits):
     # Search long string for chuncks to edit out from listofedits.  List of
     # edits will frequently come from a regex.findall(longstring).  Return the
     # string with the listofedits removed.
@@ -38,7 +42,7 @@ def stringweightloss(longstring, listofedits)
         longstring = longstring[:startcutat] + longstring[endcutat:]
     return longstring
 
-def stringtosections(longstring, listofsectionbreaks)
+def stringtosections(longstring, listofsectionbreaks):
     # Search long string for a list of section breaks.  List of
     # breaks will frequently come from a regex.findall(longstring).  Return the
     # a list of strings containing each sections contents.  DOES NOT keep
@@ -56,5 +60,30 @@ def stringtosections(longstring, listofsectionbreaks)
         # Add the section to the list, then chop off the first section and
         # the sectionbreak from the longstring.
         listofsections.append(stringremainder[:startcutat])
-        stringremainder = stringremainder[endcutat:])
+        stringremainder = stringremainder[endcutat:]
     return listofsections
+    
+def loaddictionary(filename):
+    inpickle = open(filename, 'rb')
+    returndict = pickle.load(inpickle)
+    inpickle.close()
+    return returndict
+
+def dumpdictionary(outdict, filename):
+    outpickle = open(filename, 'wb')
+    pickle.dump(outdict, outpickle)
+    outpickle.close()
+
+def stringtofile(astring, filename):
+    print('I\'m about to overwrite the file', filename,
+          'in the current working directory', os.getcwd())
+    cani = input('Is that okay? (type "y"): ')
+    if cani == 'y':
+        outfileh = open(filename, "w+")
+        outfileh.write(astring)
+        outfileh.close()
+    else:
+        print('permission denied!',
+               'My feelings are hurt and I shall do nothing.  NOTHING!')
+
+    
