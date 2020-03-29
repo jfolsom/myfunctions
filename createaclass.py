@@ -34,7 +34,7 @@ i = -1
 while True:
     i += 1
     try:
-        attributes.append = sys.argv[i+2]
+        attributes.append(sys.argv[i+2])
     except IndexError:
         nextatt = input('Enter the name of an attribute or ".": ')
         if nextatt == '.':

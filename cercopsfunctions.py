@@ -5,6 +5,13 @@
 import os
 import pickle
 
+def ifdebug():
+    try:
+        return debug
+    except NameError:
+        debug = False
+        return debug
+
 def printlistoflines(listoflists):
     for y in range(len(picture)):
         for x in range(len(row1)):
